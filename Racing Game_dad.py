@@ -12,7 +12,7 @@ car_width = 75
 car_height = 89
 
 black = (0, 0, 0)
-white = (254, 255, 255)
+white = (255, 255, 255)
 blue = (66, 134, 244)
 
 crashes = 0
